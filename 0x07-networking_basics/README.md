@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x08-networking 
 In computer networking, localhost is a hostname that refers to the current computer used to access it. The name localhost is reserved for loopback purposes.[1] It is used to access the network services that are running on the host via the loopback network interface. Using the loopback interface bypasses any local network interface hardware.
 
@@ -23,3 +24,60 @@ When authoritative name servers receive queries for 'localhost' in spite of the 
 In addition to the mapping of localhost to the loopback addresses (127.0.0.1 and ::1), localhost may also be mapped to other IPv4 (loopback) addresses and it is also possible to assign other, or additional, names to any loopback address. The mapping of localhost to addresses other than the designated loopback address range in the hosts file or in DNS is not guaranteed to have the desired effect, as applications may map the name internally.
 
 In the Domain Name System, the name .localhost is reserved as a top-level domain name, originally set aside to avoid confusion with the hostname localhost.[4] Domain name registrars are precluded from delegating domain names in the top-level .localhost domain.[1]
+=======
+LAN redirects here. For other uses, see Lan.
+Computer network types
+by scale
+
+Nanoscale
+Near-field (NFC)
+Body
+Personal (PAN)
+Near-me
+Local (LAN)
+Storage (SAN)
+Wireless (WLAN)
+Virtual (VLAN)
+Home (HAN)
+Building
+Campus (CAN)
+Backbone
+Metropolitan (MAN)
+Municipal wireless (MWN)
+Wide (WAN)
+Cloud
+Internet
+Interplanetary Internet
+vte
+
+A conceptual diagram of a local area network using bus network topology
+A local area network (LAN) is a computer network that interconnects computers within a limited area such as a residence, school, laboratory, university campus or office building.[1] By contrast, a wide area network (WAN) not only covers a larger geographic distance, but also generally involves leased telecommunication circuits.
+
+Ethernet and Wi-Fi are the two most common technologies in use for local area networks. Historical network technologies include ARCNET, Token Ring and AppleTalk.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> ffa4a519d2ec319a41e8b579baaf49f9c5bf3462
